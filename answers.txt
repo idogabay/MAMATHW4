@@ -1,0 +1,4 @@
+1. The manual option would have taken about 20 minutes.
+2.Bash is a powerful tool to manipulate strings. it can be use to predict elections results (may 2021 here we come!)
+3.as we saw in the tutorial, we can repeat the same command every hour. we can write a script to do so.
+	every article has a time stamp. we can use it to grep only the new articles.
